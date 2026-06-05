@@ -1,0 +1,12 @@
+matplotlib
+ipykernel
+numpy
+pandas
+scipy
+seaborn
+statsmodels
+pingouin
+openpyxl
+rpy2
+streamlit>=1.30.0
+plotly>=5.0.0
